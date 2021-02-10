@@ -15,6 +15,7 @@
                 margin: 0;
                 padding: 0;
                 box-sizing: border-box;
+                font-family: 'Nunito', sans-serif;
             }
             .wrapper {
                 height: 100vh;
@@ -26,7 +27,7 @@
                 color: aliceblue;
             }
             main {
-                height: calc(100vh - 80px - 256px);
+                height: calc(100vh - 80px - 280px);
             }
             .container {
                 width: 75%;
@@ -72,8 +73,8 @@
                 <div class="container">
                     <nav class="navbar flex">
                         <ul>
-                            <li><a href="#">HOME</a></li>
-                            <li><a href="#">ABOUT</a></li>
+                            <li><a href="">HOME</a></li>
+                            <li><a href="about">ABOUT</a></li>
                             <li><a href="#">CONTACTS</a></li>
                             <li><a href="#">LOREM</a></li>
                             <li><a href="#">LOREM</a></li>
